@@ -17,7 +17,6 @@ import org.springframework.stereotype.Service;
 
 @Configuration
 @EnableWebSecurity
-@Service
 public class SecurityConfig {
 
     @Autowired
